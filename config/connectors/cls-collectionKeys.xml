@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="project.testrestdeploy.TestRESTDEPLOYProject.project_testrestdeploy_TestRESTDEPLOYProject_uber_new.operations.actions:getHISTORY" connectorServiceName="project.testrestdeploy.TestRESTDEPLOYProject.project_testrestdeploy_TestRESTDEPLOYProject_uber_new.operations.actions:getHISTORY"/>
+            <keyDetails collectionKey="project.testrestdeploy.TestRESTDEPLOYProject.project_testrestdeploy_TestRESTDEPLOYProject_uber_new.operations.actions:getME" connectorServiceName="project.testrestdeploy.TestRESTDEPLOYProject.project_testrestdeploy_TestRESTDEPLOYProject_uber_new.operations.actions:getME"/>
+            <keyDetails collectionKey="project.testrestdeploy.TestRESTDEPLOYProject.project_testrestdeploy_TestRESTDEPLOYProject_uber_new.operations.actions:getPRICE" connectorServiceName="project.testrestdeploy.TestRESTDEPLOYProject.project_testrestdeploy_TestRESTDEPLOYProject_uber_new.operations.actions:getPRICE"/>
+            <keyDetails collectionKey="project.testrestdeploy.TestRESTDEPLOYProject.project_testrestdeploy_TestRESTDEPLOYProject_uber_new.operations.actions:getTIME" connectorServiceName="project.testrestdeploy.TestRESTDEPLOYProject.project_testrestdeploy_TestRESTDEPLOYProject_uber_new.operations.actions:getTIME"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
