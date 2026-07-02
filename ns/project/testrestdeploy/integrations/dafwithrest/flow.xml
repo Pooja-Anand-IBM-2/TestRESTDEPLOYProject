@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FLOW VERSION="3.2" CLEANUP="false">
+  <COMMENT></COMMENT>
+
+  <!-- nodes -->
+
+<INVOKE NAME="Invoke rest:project.testrestdeploy.TestRESTDEPLOYProject.uber_new" TIMEOUT="" SERVICE="project.testrestdeploy.TestRESTDEPLOYProject.project_testrestdeploy_TestRESTDEPLOYProject_uber_new.operations.actions:getTIME" VALIDATE-IN="" VALIDATE-OUT="">
+  <COMMENT></COMMENT>
+</INVOKE>
+</FLOW>
